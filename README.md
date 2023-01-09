@@ -1,4 +1,4 @@
-# <p align="center">👋 Salut, moi c'est <span class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="liting-qiu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/liting-qiu/fr?trk=profile-badge">Liting QIU</a></span>.</p>
+# <p align="center">👋 Salut, moi c'est  <span class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="liting-qiu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/liting-qiu/fr?trk=profile-badge">Liting QIU</a></span></p>
 
               
 
@@ -34,7 +34,7 @@
 
 ## 👨‍💻 Mes prochaines compétences
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![typescript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## ☕ Social
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liting-qiu/)
