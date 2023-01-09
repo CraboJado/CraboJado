@@ -1,5 +1,5 @@
-# <p align="center">👋 Salut, moi c'est Liting.</p>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="liting-qiu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/liting-qiu/fr?trk=profile-badge">Liting QIU</a></div>
+# <p align="center">👋 Salut, moi c'est <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="liting-qiu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/liting-qiu/fr?trk=profile-badge">Liting QIU</a></div>.</p>
+
               
 
 ## ✒ A propos de moi
