@@ -3,11 +3,11 @@
 ## ✒ A propos de moi
 > Dans le cadre d'une reconversion professionnelle, j’ai découvert la programmation et appris en autodidacte le développement web (Html, css et JavaScript) pendant un an. Afin de concretiser mon projet de reconversion professionnelle, j'ai ensuite suivi la formation de Développeur Web (bac +2) au sein de l’Openclassrooms pendant laquelle j'ai mis à jour mes compétences aquises en autodidacte et dévelopé des nouveaux compétences en react, nodejs, mysql et mongoDB.
 
-Pour poursuivre mon aventure de reconversion,j'ai décidé de suivre une formation de Concepteur Développeur d'Applications Fullstack filière JAVA. Ainsi, je recherche activement une entreprise susceptible de m'accueillir dans la région de Montpellier ou en full remote, pour une durée de 18 mois. 
+>Pour poursuivre mon aventure de reconversion,j'ai décidé de suivre une formation de Concepteur Développeur d'Applications Fullstack filière JAVA. Ainsi, je recherche activement une entreprise susceptible de m'accueillir dans la région de Montpellier ou en full remote, pour une durée de 18 mois. 
 
-Ayant un master en commerce international et 4 ans d’expérience en tant qu’Acheteuse dans l’industrie du film imprimable, je possède les compétences transversales : le sens du travail en équipe, la capacités à communiquer, le sens de l’écoute et le sens de l’autonomie qui me serviront dans le développement web.
+>Ayant un master en commerce international et 4 ans d’expérience en tant qu’Acheteuse dans l’industrie du film imprimable, je possède les compétences transversales : le sens du travail en équipe, la capacités à communiquer, le sens de l’écoute et le sens de l’autonomie qui me serviront dans le développement web.
 
-J'apprends actuellement TypeScript et Java en autodidacte.
+>J'apprends actuellement TypeScript et Java en autodidacte.
 
 
 ## 👨‍💻 Mes Compétences
